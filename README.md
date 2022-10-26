@@ -1,2 +1,2 @@
 # SensLandMaps
-work for sensland inrteractive web map
+work for sensland interactive web map
